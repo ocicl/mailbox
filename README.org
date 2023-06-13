@@ -1,0 +1,10 @@
+* mailbox
+
+Simple multithreading mailboxes for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/drurowin/mailbox.git   |
+| commit  | 3edf0ec  |
+| systems | mailbox |
+|---------+-------------------------------------------|
+
